@@ -105,7 +105,7 @@ return (
         <div className="container">
     <nav> 
         <div className={`logo-larger transition ${openNav ? 'logo-screen' : ''}`}>
-{/*             <img src={theme === "light" ? darkLogo : lightLogo} alt="larger-logo" /> */}
+            <img src={theme === "light" ? darkLogo : lightLogo} alt="larger-logo" />
             taskM
         </div>
         <div className="container">
